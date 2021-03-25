@@ -1,0 +1,22 @@
+{
+  "timeZone": "America/Los_Angeles",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "OAuth2",
+        "libraryId": "1B7FSrk5Zi6L1rSxxTDgDEUsPzlukDsi4KGuTMorsTQHhGBzBkMun4iDF",
+        "version": "35",
+        "developmentMode": true
+      }
+    ]
+  },
+  "dataStudio": {
+    "name": "GetDataFromRemarisApi",
+    "logoUrl": "https://developer.spotify.com/assets/branding-guidelines/icon1@2x.png",
+    "company": "None",
+    "addonUrl": "https://github.com/dadozaprudje/get-google-datastudio-conn",
+    "supportUrl": "https://github.com/dadozaprudje/get-google-datastudio-conn",
+    "description": "This connector should be used to fetch some data from Remaris API."
+  },
+  "runtimeVersion": "V8"
+}
